@@ -5,4 +5,4 @@
 ### 🛠 配置参考
 - **仓库**: `itsxiaobo/Picture-Bed`
 - **分支**: `main`
-- **CDN**: `https://cdn.jsdelivr.net/gh/itsxiaobo/Picture-Bed`
+- **CDN**: `https://cdn.jsdelivr.net/gh/itsxiaobo/Picture-Bed/main`
